@@ -1,0 +1,91 @@
+h3{
+    text-align: center;
+    color: chocolate;
+    background-color: burlywood;
+}
+body{
+    margin-left: 0px;
+    background-color: rgb(252, 11, 127);
+}
+
+div{
+    width: 19%;
+    height: 800px;
+    border: rgb(185, 125, 125) 3px solid;
+    background-color:black;
+    float: left;
+    color:white;
+    position: relative;
+    border-radius: 35px;
+}
+h1{
+    text-align: center;
+    background-color: coral;
+}
+img{
+    width: 98%;
+    height: 300px;
+    padding: 4px;
+    border-radius: 30px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+p{
+    text-align: center;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a{
+    width: 193px;
+    height: 42px;
+    left: 8%;
+    text-align: center;
+    background-color: palevioletred;
+    position: absolute;
+    padding-top: 19px;
+    color: black;
+    border-color: rgb(48, 82, 145);
+}
+.b{
+    width: 193px;
+    height: 42px;
+    left: 8%;
+    text-align: center;
+    background-color: palevioletred;
+    position: absolute;
+    padding-top: 19px;
+    color:black;
+    border-color: rgb(48, 82, 145);
+}
+.c{
+    width: 193px;
+    height: 42px;
+    left: 8%;
+    text-align: center;
+    background-color: palevioletred;
+    position: absolute;
+    padding-top: 19px;
+    color: black;
+    border-color: rgb(48, 82, 145);
+}
+.d{
+    width: 193px;
+    height: 42px;
+    left: 8%;
+    text-align: center;
+    background-color: palevioletred;
+    position: absolute;
+    padding-top: 19px;
+    color: black;
+    border-color: rgb(48, 82, 145);
+}
+.e{
+    width: 193px;
+    height: 42px;
+    left: 8%;
+    text-align: center;
+    background-color: palevioletred;
+    position: absolute;
+    padding-top: 19px;
+    color: black;
+    border-color: rgb(48, 82, 145);
+}
